@@ -1,0 +1,10 @@
+# secrets and generated files — never commit these
+.env
+session_id
+gcal_client.json
+gcal_token.json
+cron.log
+
+# python
+__pycache__/
+*.pyc
